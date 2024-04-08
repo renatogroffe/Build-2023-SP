@@ -15,3 +15,36 @@ Foram 2 apresentações no **Espaço Comunidade Técnica - Ask the Experts**:
 
 Essas 2 apresentações realizei em conjunto com minha amiga **Thamirys Gameiro (Microsoft)**, contando com pessoas de várias localidades nos acompanhando. Nossa participação foi possível graças ao convite e apoio do **Fabio Hara (Microsoft)**, do **Victor Temple (Microsoft Reactor)** e da **Larissa Cyganski (Microsoft Reactor)**. Aproveito para agradecer a todos eles pela oportunidade e toda colaboração.
 
+Como não poderia deixar de ser, nossas talks acabaram envolvendo assuntos como **.NET, C#, ASP.NET Core, Certificações do Azure, Cloud Computing** e **Open Source** (além da temática principal que focou em comunidades técnicas).
+
+Deixo ainda meu muito obrigado aos amigos **Thiago Bertuzzi**, **Ewerton Rodrigues Jordão** e **Diego Moreira Matos** pelas fotos.
+
+A seguir estão algumas fotos e  detalhes dessas apresentações.
+
+---
+
+## Como participar de comunidades técnicas pode transformar você em um profissional melhor?
+
+Horário: **10:40 às 11:00**
+
+Público: **15 pessoas**
+
+![Palestra 2-1](img/Talk01/c-32.jpg)
+
+![Palestra 2-2](img/Talk01/c-25.jpg)
+
+![Palestra 2-3](img/Talk01/c-04.jpg)
+
+---
+
+## O que eu preciso para subir nos palcos e/ou publicar conteúdos?
+
+Horário: **14:40 às 15:00**
+
+Público: **20 pessoas**
+
+![Palestra 2-1](img/Talk02/c-43.jpg)
+
+![Palestra 2-2](img/Talk02/c-53.jpg)
+
+![Palestra 2-3](img/Talk02/c-58.jpg)
