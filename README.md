@@ -1,4 +1,4 @@
-# Build-2023-SP
+# Microsoft Build Brasil 2023 - São Paulo-SP
 Apresentações realizadas durante o **Microsoft Build Brasil 2023** em **São Paulo-SP**. Este evento aconteceu no dia **22/06/2023**.
 
 Informações sobre o evento em postagens no **Instagram**:
